@@ -19,3 +19,7 @@ pwn就是通过和程序进行一些交互，来使程序运行/bin/sh，从而�
 ## 学习路线
 
 栈 -> 堆 -> ...
+
+## 如何开始
+
+[栈溢出](https://ctf-wiki.github.io/ctf-wiki/pwn/linux/stackoverflow/stack-intro-zh/)
